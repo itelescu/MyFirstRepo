@@ -13,10 +13,3 @@ def feach_words():
 
 # print (story_words)
 
-    for word in story_words:
-        print (word)
-
-
-if __name__== '__main__':
-    feach_words()
-
