@@ -10,6 +10,6 @@ def feach_words():
             story_words.append(word)
 
     story.close()
-
+ion noroc pituhule
 # print (story_words)
 
